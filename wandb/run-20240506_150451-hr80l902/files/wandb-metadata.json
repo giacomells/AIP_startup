@@ -1,0 +1,39 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2024-05-06T13:04:52.526983",
+    "startedAt": "2024-05-06T13:04:51.882393",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/matteogiacomelli/Documents/AIP_startup/example.py",
+    "codePathLocal": "example.py",
+    "codePath": "example.py",
+    "host": "MacBook-Pro-di-Matteo.local",
+    "username": "matteogiacomelli",
+    "executable": "/Users/matteogiacomelli/opt/anaconda3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1400,
+        "min": 1400,
+        "max": 1400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400,
+            "min": 1400,
+            "max": 1400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 362.2851333618164,
+            "used": 313.3605499267578
+        }
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

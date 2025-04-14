@@ -1,4 +1,3 @@
-# TestModifica
 La cartella del grafococomputazionale contiene degli esempi su come estrapolare il grafocomputazionale da un modello di rete neurale con PyTorch.
 
 
